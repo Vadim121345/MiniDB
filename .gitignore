@@ -1,0 +1,6 @@
+out/
+data/
+test-data/
+benchmark-data/
+*.class
+*.tmp
